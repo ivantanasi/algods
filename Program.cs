@@ -39,8 +39,8 @@ namespace algods
             // FrogJmp fj = new FrogJmp();
             // fj.FrogJmpMethod();
 
-            PermMissingElem pme = new PermMissingElem();
-            pme.PermMissingElemMethod();
+            // PermMissingElem pme = new PermMissingElem();
+            // pme.PermMissingElemMethod();
 
             #endregion lesson 3 Time Complexity
 
@@ -49,6 +49,9 @@ namespace algods
             #endregion codility
 
             #region geeksforgeeks
+
+            LinearSearch ls = new LinearSearch();
+            ls.LinearSearchMethod();
 
             #endregion geeksforgeeks
         }
