@@ -50,8 +50,15 @@ namespace algods
 
             #region geeksforgeeks
 
-            LinearSearch ls = new LinearSearch();
-            ls.LinearSearchMethod();
+            #region searching algorithms
+
+            // LinearSearch ls = new LinearSearch();
+            // ls.LinearSearchMethod();
+
+            BinarySearch bs = new BinarySearch();
+            bs.BinarySearchMethod();
+
+            #endregion searching algorithms
 
             #endregion geeksforgeeks
         }
